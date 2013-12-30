@@ -4,12 +4,12 @@
     "version": "1.7.9",
     "type": "nuked-module",
     "keywords": ["nuked", "module", "download"],
-    "homepage": "http://www.nuked-klan.org/"
+    "homepage": "http://www.nuked-klan.org/",
     "license": "GPL-2.0+",
     "authors": [
         {
             "name": "Nuked-Klan Team",
-            "homepage": "http://www.nuked-klan.org/",
+            "homepage": "http://www.nuked-klan.org/"
         },
         {
             "name": "Adrien Loyant",
